@@ -1,6 +1,8 @@
 Smashing_The_Browser
 ====================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f536a6393fc94232961120e7b8efbc8c)](https://www.codacy.com/app/harlamova/Smashing_The_Browser?utm_source=github.com&utm_medium=referral&utm_content=Elisabethar/Smashing_The_Browser&utm_campaign=badger)
+
 Smashing The Browser: From Vulnerability Discovery To Exploit
 
 Part 1: Browser Fuzzing Technology
